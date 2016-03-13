@@ -1,2 +1,20 @@
 # mathengine
-Maths Example source code
+
+## GMP examples
+
+  1.How to multiply two  numbers?
+
+  **bignum**    
+
+```
+  ./bignum number_one number_two
+```
+
+** Eg.**
+
+```
+ ./bigmul 100020003000400050002346  45895887233391258875699432122236
+A       => 100020003000400050002346  
+B       => 45895887233391258875699432122236  
+Result  => 4590506778789816062716623752527100537850891379558765656
+```
